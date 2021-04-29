@@ -1,0 +1,6 @@
+name: 'Daniel-MBSI-NLP-Demo'
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - nltk
