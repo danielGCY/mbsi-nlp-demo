@@ -3,5 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - python=3.9
-  - spacy
-  - scispacy
+  - spacy=3.0
+  - pip
+  - pip:
+    - scispacy
